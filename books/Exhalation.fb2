@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Ted</first-name>
+    <last-name>Chiang</last-name>
+   </author>
+   <book-title>Exhalation</book-title>
+   <annotation>
+    <p>The story is epistolary in nature, taking the form of a scientist's journal entry. The scientist is a member of a race of air-driven mechanical beings. When it is realised that a number of clocks simultaneously appear to be running fast but they do not appear to be malfunctioning, the narrator decides to explore alternate explanations. The scientist carries out an experiment which confirms his worst fears.</p>
+   </annotation>
+   <date>2008</date>
+   <coverpage>
+    <image l:href="#eclipse.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 0.7.48, FictionBook Editor 2.4</program-used>
+   <date value="2011-07-24">24.7.2011</date>
+   <id>100687ee-9910-41f3-b576-4454dbd45286</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Eclipse Two: New Science Fiction and Fantasy, Digital Edition</book-name>
+   <publisher>Night Shade Books</publisher>
+   <year>2009</year>
+   <isbn>978-1-59780-136-2</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>EXHALATION</p>
+   <p>TED CHIANG</p>
+  </title>
+  <section>
+   <p>It has long been said that air (which others call argon) is the source of life. This is not in fact the case, and I engrave these words to describe how I came to understand the true source of life and, as a corollary, the means by which life will one day end.</p>
+   <p>For most of history, the proposition that we drew life from air was so obvious that there was no need to assert it. Every day we consume two lungs heavy with air; every day we remove the empty ones from our chest and replace them with full ones. If a person is careless and lets his air level run too low, he feels the heaviness of his limbs and the growing need for replenishment. It is exceedingly rare that a person is unable to get at least one replacement lung before his installed pair runs empty; on those unfortunate occasions where this has happened-when a person is trapped and unable to move, with no one nearby to assist him-he dies within seconds of his air running out.</p>
+   <p>But in the normal course of life, our need for air is far from our thoughts, and indeed many would say that satisfying that need is the least important part of going to the filling stations. For the filling stations are the primary venue for social conversation, the places from which we draw emotional sustenance as well as physical. We all keep spare sets of full lungs in our homes, but when one is alone, the act of opening one's chest and replacing one's lungs can seem little better than a chore. In the company of others, however, it becomes a communal activity, a shared pleasure.</p>
+   <p>If one is exceedingly busy, or feeling unsociable, one might simply pick up a pair of full lungs, install them, and leave one's emptied lungs on the other side of the room. If one has a few minutes to spare, it's simple courtesy to connect the empty lungs to an air dispenser and refill them for the next person. But by far the most common practice is to linger and enjoy the company of others, to discuss the news of the day with friends or acquaintances and, in passing, offer newly filled lungs to one's interlocutor. While this perhaps does not constitute air sharing in the strictest sense, there is camaraderie derived from the awareness that all our air comes from the same source, for the dispensers are but the exposed terminals of pipes extending from the reservoir of air deep underground, the great lung of the world, the source of all our nourishment.</p>
+   <p>Many lungs are returned to the same filling station the next day, but just as many circulate to other stations when people visit neighboring districts; the lungs are all identical in appearance, smooth cylinders of aluminum, so one cannot tell whether a given lung has always stayed close to home or whether it has traveled long distances. And just as lungs are passed between persons and districts, so are news and gossip. In this way one can receive news from remote districts, even those at the very edge of the world, without needing to leave home, although I myself enjoy traveling. I have journeyed all the way to the edge of the world, and seen the solid chromium wall that extends from the ground up into the infinite sky.</p>
+   <p>It was at one of the filling stations that I first heard the rumors that prompted my investigation and led to my eventual enlightenment. It began innocently enough, with a remark from our district's public crier. At noon of the first day of every year, it is traditional for the crier to recite a passage of verse, an ode composed long ago for this annual celebration, which takes exactly one hour to deliver. The crier mentioned that on his most recent performance, the turret clock struck the hour before he had finished, something that had never happened before. Another person remarked that this was a coincidence, because he had just returned from a nearby district where the public crier had complained of the same incongruity.</p>
+   <p>No one gave the matter much thought beyond the simple acknowledgement that seemed warranted. It was only some days later, when there arrived word of a similar deviation between the crier and the clock of a third district, that the suggestion was made that these discrepancies might be evidence of a defect in the mechanism common to all the turret clocks, albeit a curious one to cause the clocks to run faster rather than slower. Horologists investigated the turret clocks in question, but on inspection they could discern no imperfection. In fact, when compared against the timepieces normally employed for such calibration purposes, the turret clocks were all found to have resumed keeping perfect time.</p>
+   <p>I myself found the question somewhat intriguing, but I was too focused on my own studies to devote much thought to other matters. I was and am a student of anatomy, and to provide context for my subsequent actions, I now offer a brief account of my relationship with the field.</p>
+   <p>Death is uncommon, fortunately, because we are durable and fatal mishaps are rare, but it makes difficult the study of anatomy, especially since many of the accidents serious enough to cause death leave the deceased's remains too damaged for study. If lungs are ruptured when full, the explosive force can tear a body asunder, ripping the titanium as easily as if it were tin. In the past, anatomists focused their attention on the limbs, which were the most likely to survive intact. During the very first anatomy lecture I attended a century ago, the lecturer showed us a severed arm, the casing removed to reveal the dense column of rods and pistons within. I can vividly recall the way, after he had connected its arterial hoses to a wall-mounted lung he kept in the laboratory, he was able to manipulate the actuating rods that protruded from the arm's ragged base, and in response the hand would open and close fitfully.</p>
+   <p>In the intervening years, our field has advanced to the point where anatomists are able to repair damaged limbs and, on occasion, attach a severed limb. At the same time we have become capable of studying the physiology of the living; I have given a version of that first lecture I saw, during which I opened the casing of my own arm and directed my students' attention to the rods that contracted and extended when I wiggled my fingers.</p>
+   <p>Despite these advances, the field of anatomy still had a great unsolved mystery at its core: the question of memory. While we knew a little about the structure of the brain, its physiology is notoriously hard to study because of the brain's extreme delicacy. It is typically the case in fatal accidents that, when the skull is breached, the brain erupts in a cloud of gold, leaving little besides shredded filament and leaf from which nothing useful can be discerned. For decades the prevailing theory of memory was that all of a person's experiences were engraved on sheets of gold foil; it was these sheets, torn apart by the force of the blast, that was the source of the tiny flakes found after accidents. Anatomists would collect the bits of gold leaf-so thin that light passes greenly through them-and spend years trying to reconstruct the original sheets, with the hope of eventually deciphering the symbols in which the deceased's recent experiences were inscribed.</p>
+   <p>I did not subscribe to this theory, known as the inscription hypothesis, for the simple reason that if all our experiences are in fact recorded, why is it that our memories are incomplete? Advocates of the inscription hypothesis offered an explanation for forgetfulness-suggesting that over time the foil sheets become misaligned from the stylus which reads the memories, until the oldest sheets shift out of contact with it altogether-but I never found it convincing. The appeal of the theory was easy for me to appreciate, though; I too had devoted many an hour to examining flakes of gold through a microscope, and can imagine how gratifying it would be to turn the fine adjustment knob and see legible symbols come into focus.</p>
+   <p>More than that, how wonderful would it be to decipher the very oldest of a deceased person's memories, ones that he himself had forgotten? None of us can remember much more than a hundred years in the past, and written records-accounts that we ourselves inscribed but have scant memory of doing so-extend only a few hundred years before that. How many years did we live before the beginning of written history? Where did we come from? It is the promise of finding the answers within our own brains that makes the inscription hypothesis so seductive.</p>
+   <p>I was a proponent of the competing school of thought, which held that our memories were stored in some medium in which the process of erasure was no more difficult than recording: perhaps in the rotation of gears, or the positions of a series of switches. This theory implied that everything we had forgotten was indeed lost, and our brains contained no histories older than those found in our libraries. One advantage of this theory was that it better explained why, when lungs are installed in those who have died from lack of air, the revived have no memories and are all but mindless: somehow the shock of death had reset all the gears or switches. The inscriptionists claimed the shock had merely misaligned the foil sheets, but no one was willing to kill a living person, even an imbecile, in order to resolve the debate. I had envisioned an experiment which might allow me to determine the truth conclusively, but it was a risky one, and deserved careful consideration before it was undertaken. I remained undecided for the longest time, until I heard more news about the clock anomaly.</p>
+   <p>Word arrived from a more distant district that its public crier had likewise observed the turret clock striking the hour before he had finished his new year's recital. What made this notable was that his district's clock employed a different mechanism, one in which the hours were marked by the flow of mercury into a bowl. Here the discrepancy could not be explained by a common mechanical fault. Most people suspected fraud, a practical joke perpetrated by mischief makers. I had a different suspicion, a darker one that I dared not voice, but it decided my course of action; I would proceed with my experiment.</p>
+   <p>The first tool I constructed was the simplest: in my laboratory I fixed four prisms on mounting brackets and carefully aligned them so that their apexes formed the corners of a rectangle. When arranged thus, a beam of light directed at one of the lower prisms was reflected up, then backward, then down, and then forward again in a quadrilateral loop. Accordingly, when I sat with my eyes at the level of the first prism, I obtained a clear view of the back of my own head. This solipsistic periscope formed the basis of all that was to come.</p>
+   <p>A similarly rectangular arrangement of actuating rods allowed a displacement of action to accompany the displacement of vision afforded by the prisms. The bank of actuating rods was much larger than the periscope, but still relatively straightforward in design; by contrast, what was attached to the end of these respective mechanisms was far more intricate. To the periscope I added a binocular microscope mounted on an armature capable of swiveling side to side or up and down. To the actuating rods I added an array of precision manipulators, although that description hardly does justice to those pinnacles of the mechanician's art. Combining the ingenuity of anatomists and the inspiration provided by the bodily structures they studied, the manipulators enabled their operator to accomplish any task he might normally perform with his own hands, but on a much smaller scale.</p>
+   <p>Assembling all of this equipment took months, but I could not afford to be anything less than meticulous. Once the preparations were complete, I was able to place each of my hands on a nest of knobs and levers and control a pair of manipulators situated behind my head, and use the periscope to see what they worked on. I would then be able to dissect my own brain.</p>
+   <p>The very idea must sound like pure madness, I know, and had I told any of my colleagues, they would surely have tried to stop me. But I could not ask anyone else to risk themselves for the sake of anatomical inquiry, and because I wished to conduct the dissection myself, I would not be satisfied by merely being the passive subject of such an operation. Auto-dissection was the only option.</p>
+   <p>I brought in a dozen full lungs and connected them with a manifold. I mounted this assembly beneath the worktable that I would sit at, and positioned a dispenser to connect directly to the bronchial inlets within my chest. This would supply me with six days' worth of air. To provide for the possibility that I might not have completed my experiment within that period, I had scheduled a visit from a colleague at the end of that time. My presumption, however, was that the only way I would not have finished the operation in that period would be if I had caused my own death.</p>
+   <p>I began by removing the deeply curved plate that formed the back and top of my head; then the two, more shallowly curved plates that formed the sides. Only my faceplate remained, but it was locked into a restraining bracket, and I could not see its inner surface from the vantage point of my periscope; what I saw exposed was my own brain. It consisted of a dozen or more subassemblies, whose exteriors were covered by intricately molded shells; by positioning the periscope near the fissures that separated them, I gained a tantalizing glimpse at the fabulous mechanisms within their interiors. Even with what little I could see, I could tell it was the most beautifully complex engine I had ever beheld, so far beyond any device man had constructed that it was incontrovertibly of divine origin. The sight was both exhilarating and dizzying, and I savored it on a strictly aesthetic basis for several minutes before proceeding with my explorations.</p>
+   <p>It was generally hypothesized that the brain was divided into an engine located in the center of the head which performed the actual cognition, surrounded by an array of components in which memories were stored. What I observed was consistent with this theory, since the peripheral subassemblies seemed to resemble one another, while the subassembly in the center appeared to be different, more heterogenous and with more moving parts. However the components were packed too closely for me to see much of their operation; if I intended to learn anything more, I would require a more intimate vantage point.</p>
+   <p>Each subassembly had a local reservoir of air, fed by a hose extending from the regulator at the base of my brain. I focused my periscope on the rearmost subassembly and, using the remote manipulators, I quickly disconnected the outlet hose and installed a longer one in its place. I had practiced this maneuver countless times so that I could perform it in a matter of moments; even so, I was not certain I could complete the connection before the subassembly had depleted its local reservoir. Only after I was satisfied that the component's operation had not been interrupted did I continue; I rearranged the longer hose to gain a better view of what lay in the fissure behind it: other hoses that connected it to its neighboring components. Using the most slender pair of manipulators to reach into the narrow crevice, I replaced the hoses one by one with longer substitutes. Eventually, I had worked my way around the entire subassembly and replaced every connection it had to the rest of my brain. I was now able to unmount this subassembly from the frame that supported it, and pull the entire section outside of what was once the back of my head.</p>
+   <p>I knew it was possible I had impaired my capacity to think and was unable to recognize it, but performing some basic arithmetic tests suggested that I was uninjured. With one subassembly hanging from a scaffold above, I now had a better view of the cognition engine at the center of my brain, but there was not enough room to bring the microscope attachment itself in for a close inspection. In order for me to really examine the workings of my brain, I would have to displace at least half a dozen subassemblies.</p>
+   <p>Laboriously, painstakingly, I repeated the procedure of substituting hoses for other subassemblies, repositioning another one farther back, two more higher up, and two others out to the sides, suspending all six from the scaffold above my head. When I was done, my brain looked like an explosion frozen an infinitesimal fraction of a second after the detonation, and again I felt dizzy when I thought about it. But at last the cognition engine itself was exposed, supported on a pillar of hoses and actuating rods leading down into my torso. I now also had room to rotate my microscope around a full three hundred and sixty degrees, and pass my gaze across the inner faces of the subassemblies I had moved. What I saw was a microcosm of auric machinery, a landscape of tiny spinning rotors and miniature reciprocating cylinders.</p>
+   <p>As I contemplated this vista, I wondered, where was my body? The conduits which displaced my vision and action around the room were in principle no different from those which connected my original eyes and hands to my brain. For the duration of this experiment, were these manipulators not essentially my hands? Were the magnifying lenses at the end of my periscope not essentially my eyes? I was an everted person, with my tiny, fragmented body situated at the center of my own distended brain. It was in this unlikely configuration that I began to explore myself.</p>
+   <p>I turned my microscope to one of the memory subassemblies, and began examining its design. I had no expectation that I would be able to decipher my memories, only that I might divine the means by which they were recorded. As I had predicted, there were no reams of foil pages visible, but to my surprise neither did I see banks of gearwheels or switches. Instead, the subassembly seemed to consist almost entirely of a bank of air tubules. Through the interstices between the tubules I was able to glimpse ripples passing through the bank's interior.</p>
+   <p>With careful inspection and increasing magnification, I discerned that the tubules ramified into tiny air capillaries, which were interwoven with a dense latticework of wires on which gold leaves were hinged. Under the influence of air escaping from the capillaries, the leaves were held in a variety of positions. These were not switches in the conventional sense, for they did not retain their position without a current of air to support them, but I hypothesized that these were the switches I had sought, the medium in which my memories were recorded. The ripples I saw must have been acts of recall, as an arrangement of leaves was read and sent back to the cognition engine.</p>
+   <p>Armed with this new understanding, I then turned my microscope to the cognition engine. Here too I observed a latticework of wires, but they did not bear leaves suspended in position; instead the leaves flipped back and forth almost too rapidly to see. Indeed, almost the entire engine appeared to be in motion, consisting more of lattice than of air capillaries, and I wondered how air could reach all the gold leaves in a coherent manner. For many hours I scrutinized the leaves, until I realized that they themselves were playing the role of capillaries; the leaves formed temporary conduits and valves that existed just long enough to redirect air at other leaves in turn, and then disappeared as a result. This was an engine undergoing continuous transformation, indeed modifying itself as part of its operation. The lattice was not so much a machine as it was a page on which the machine was written, and on which the machine itself ceaselessly wrote.</p>
+   <p>My consciousness could be said to be encoded in the position of these tiny leaves, but it would be more accurate to say that it was encoded in the ever-shifting pattern of air driving these leaves. Watching the oscillations of these flakes of gold, I saw that air does not, as we had always assumed, simply provide power to the engine that realizes our thoughts. Air is in fact the very medium of our thoughts. All that we are is a pattern of air flow. My memories were inscribed, not as grooves on foil or even the position of switches, but as persistent currents of argon.</p>
+   <p>In the moments after I grasped the nature of this lattice mechanism, a cascade of insights penetrated my consciousness in rapid succession. The first and most trivial was understanding why gold, the most malleable and ductile of metals, was the only material out of which our brains could be made. Only the thinnest of foil leaves could move rapidly enough for such a mechanism, and only the most delicate of filaments could act as hinges for them. By comparison, the copper burr raised by my stylus as I engrave these words and brushed from the sheet when I finish each page is as coarse and heavy as scrap. This truly was a medium where erasing and recording could be performed rapidly, far more so than any arrangement of switches or gears.</p>
+   <p>What next became clear was why installing full lungs into a person who has died from lack of air does not bring him back to life. These leaves within the lattice remain balanced between continuous cushions of air. This arrangement lets them flit back and forth swiftly, but it also means that if the flow of air ever ceases, everything is lost; the leaves all collapse into identical pendent states, erasing the patterns and the consciousness they represent. Restoring the air supply cannot recreate what has evanesced. This was the price of speed; a more stable medium for storing patterns would mean that our consciousnesses would operate far more slowly.</p>
+   <p>It was then that I perceived the solution to the clock anomaly. I saw that the speed of these leaves' movements depended on their being supported by air; with sufficient air flow, the leaves could move nearly frictionlessly. If they were moving more slowly, it was because they were being subjected to more friction, which could occur only if the cushions of air that supported them were thinner, and the air flowing through the lattice was moving with less force.</p>
+   <p>It is not that the turret clocks are running faster. What is happening is that our brains are running slower. The turret clocks are driven by pendulums, whose tempo never varies, or by the flow of mercury through a pipe, which does not change. But our brains rely on the passage of air, and when that air flows more slowly, our thoughts slow down, making the clocks seem to us to run faster.</p>
+   <p>I had feared that our brains might be growing slower, and it was this prospect that had spurred me to pursue my auto-dissection. But I had assumed that our cognition engines-while powered by air-were ultimately mechanical in nature, and some aspect of the mechanism was gradually becoming deformed through fatigue, and thus responsible for the slowing. That would have been dire, but there was at least the hope that we might be able to repair the mechanism, and restore our brains to their original speed of operation.</p>
+   <p>But if our thoughts were purely patterns of air rather than the movement of toothed gears, the problem was much more serious, for what could cause the air flowing through every person's brain to move less rapidly? It could not be a decrease in the pressure from our filling stations' dispensers; the air pressure in our lungs is so high that it must be stepped down by a series of regulators before reaching our brains. The diminution in force, I saw, must arise from the opposite direction: the pressure of our surrounding atmosphere was increasing.</p>
+   <p>How could this be? As soon as the question formed, the only possible answer became apparent: our sky must not be infinite in height. Somewhere above the limits of our vision, the chromium walls surrounding our world must curve inward to form a dome; our universe is a sealed chamber rather than an open well. And air is gradually accumulating within that chamber, until it equals the pressure in the reservoir below.</p>
+   <p>This is why, at the beginning of this engraving, I said that air is not the source of life. Air can neither be created nor destroyed; the total amount of air in the universe remains constant, and if air were all that we needed to live, we would never die. But in truth the source of life is a difference in air pressure, the flow of air from spaces where it is thick to those where it is thin. The activity of our brains, the motion of our bodies, the action of every machine we have ever built is driven by the movement of air, the force exerted as differing pressures seek to balance each other out. When the pressure everywhere in the universe is the same, all air will be motionless, and useless; one day we will be surrounded by motionless air and unable to derive any benefit from it.</p>
+   <p>We are not really consuming air at all. The amount of air that I draw from each day's new pair of lungs is exactly as much as seeps out through the joints of my limbs and the seams of my casing, exactly as much as I am adding to the atmosphere around me; all I am doing is converting air at high pressure to air at low. With every movement of my body, I contribute to the equalization of pressure in our universe. With every thought that I have, I hasten the arrival of that fatal equilibrium.</p>
+   <p>Had I come to this realization under any other circumstance, I would have leapt up from my chair and ran into the streets, but in my current situation-body locked in a restraining bracket, brain suspended across my laboratory-doing so was impossible. I could see the leaves of my brain flitting faster from the tumult of my thoughts, which in turn increased my agitation at being so restrained and immobile. Panic at that moment might have led to my death, a nightmarish paroxysm of simultaneously being trapped and spiraling out of control, struggling against my restraints until my air ran out. It was by chance as much as by intention that my hands adjusted the controls to avert my periscopic gaze from the latticework, so all I could see was the plain surface of my worktable. Thus freed from having to see and magnify my own apprehensions, I was able to calm down. When I had regained sufficient composure, I began the lengthy process of reassembling myself. Eventually I restored my brain to its original compact configuration, reattached the plates of my head, and released myself from the restraining bracket.</p>
+   <p>At first the other anatomists did not believe me when I told them what I had discovered, but in the months that followed my initial auto-dissection, more and more of them became convinced. More examinations of people's brains were performed, more measurements of atmospheric pressure were taken, and the results were all found to confirm my claims. The background air pressure of our universe was indeed increasing, and slowing our thoughts as a result.</p>
+   <p>There was widespread panic in the days after the truth first became widely know, as people contemplated for the first time the idea that death was inevitable. Many called for the strict curtailment of activities in order to minimize the thickening of our atmosphere; accusations of wasted air escalated into furious brawls and, in some districts, deaths. It was the shame of having caused these deaths, together with the reminder that it would be many centuries yet before our atmosphere's pressure became equal to that of the reservoir underground, that caused the panic to subside. We are not sure precisely how many centuries it will take; additional measurements and calculations are being performed and debated. In the meantime, there is much discussion over how we should spend the time that remains to us.</p>
+   <p>One sect has dedicated itself to the goal of reversing the equalization of pressure, and found many adherents. The mechanicians among them constructed an engine that takes air from our atmosphere and forces it into a smaller volume, a process they called “compression.” Their engine restores air to the pressure it originally had in the reservoir, and these Reversalists excitedly announced that it would form the basis of a new kind of filling station, one that would-with each lung it refilled-revitalize not only individuals but the universe itself. Alas, closer examination of the engine revealed its fatal flaw. The engine itself is powered by air from the reservoir, and for every lungful of air that it produces, the engine consumes not just a lungful, but slightly more. It does not reverse the process of equalization, but like everything else in the world, exacerbates it.</p>
+   <p>Although some of their adherents left in disillusionment after this setback, the Reversalists as a group were undeterred, and began drawing up alternate designs in which the compressor was powered instead by the uncoiling of springs or the descent of weights. These mechanisms fared no better. Every spring that is wound tight represents air released by the person who did the winding; every weight that rests higher than ground level represents air released by the person who did the lifting. There is no source of power in the universe that does not ultimately derive from a difference in air pressure, and there can be no engine whose operation will not, on balance, reduce that difference.</p>
+   <p>The Reversalists continue their labors, confident that they will one day construct an engine that generates more compression than it uses, a perpetual power source that will restore to the universe its lost vigor. I do not share their optimism; I believe that the process of equalization is inexorable. Eventually, all the air in our universe will be evenly distributed, no denser or more rarefied in one spot than in any other, unable to drive a piston, turn a rotor, or flip a leaf of gold foil. It will be the end of pressure, the end of motive power, the end of thought. The universe will have reached perfect equilibrium.</p>
+   <p>Some find irony in the fact that a study of our brains revealed to us not the secrets of the past, but what ultimately awaits us in the future. However, I maintain that we have indeed learned something important about the past. The universe began as an enormous breath being held. Who knows why, but whatever the reason, I am glad that it did, because I owe my existence to that fact. All my desires and ruminations are no more and no less than eddy currents generated by the gradual exhalation of our universe. And until this great exhalation is finished, my thoughts live on.</p>
+   <p>So that our thoughts may continue as long as possible, anatomists and mechanicians are designing replacements for our cerebral regulators, capable of gradually increasing the air pressure within our brains and keeping it just higher than the surrounding atmospheric pressure. Once these are installed, our thoughts will continue at roughly the same speed even as the air thickens around us. But this does not mean that life will continue unchanged. Eventually the pressure differential will fall to such a level that our limbs will weaken and our movements will grow sluggish. We may then try to slow our thoughts so that our physical torpor is less conspicuous to us, but that will also cause external processes to appear to accelerate. The ticking of clocks will rise to a chatter as their pendulums wave frantically; falling objects will slam to the ground as if propelled by springs; undulations will race down cables like the crack of a whip.</p>
+   <p>At some point our limbs will cease moving altogether. I cannot be certain of the precise sequence of events near the end, but I imagine a scenario in which our thoughts will continue to operate, so that we remain conscious but frozen, immobile as statues. Perhaps we'll be able to speak for a while longer, because our voice boxes operate on a smaller pressure differential than our limbs, but without the ability to visit a filling station, every utterance will reduce the amount of air left for thought, and bring us closer to the moment that our thoughts cease altogether. Will it be preferable to remain mute to prolong our ability to think, or to talk until the very end? I don't know.</p>
+   <p>Perhaps a few of us, in the days before we cease moving, will be able to connect our cerebral regulators directly to the dispensers in the filling stations, in effect replacing our lungs with the mighty lung of the world. If so, those few will be able to remain conscious right up to the final moments before all pressure is equalized. The last bit of air pressure left in our universe will be expended driving a person's conscious thought.</p>
+   <p>And then, our universe will be in a state of absolute equilibrium. All life and thought will cease, and with them, time itself.</p>
+   <p>But I maintain a slender hope.</p>
+   <p>Even though our universe is enclosed, perhaps it is not the only air chamber in the infinite expanse of solid chromium. I speculate that there could be another pocket of air elsewhere, another universe besides our own that is even larger in volume. It is possible that this hypothetical universe has the same or higher air pressure as ours, but suppose that it had a much lower air pressure than ours, perhaps even a true vacuum?</p>
+   <p>The chromium that separates us from this supposed universe is too thick and too hard for us to drill through, so there is no way we could reach it ourselves, no way to bleed off the excess atmosphere from our universe and regain motive power that way. But I fantasize that this neighboring universe has its own inhabitants, ones with capabilities beyond our own. What if they were able to create a conduit between the two universes, and install valves to release air from ours? They might use our universe as a reservoir, running dispensers with which they could fill their own lungs, and use our air as a way to drive their own civilization.</p>
+   <p>It cheers me to imagine that the air that once powered me could power others, to believe that the breath that enables me to engrave these words could one day flow through someone else's body. I do not delude myself into thinking that this would be a way for me to live again, because I am not that air, I am the pattern that it assumed, temporarily. The pattern that is me, the patterns that are the entire world in which I live, would be gone.</p>
+   <p>But I have an even fainter hope: that those inhabitants not only use our universe as a reservoir, but that once they have emptied it of its air, they might one day be able to open a passage and actually enter our universe as explorers. They might wander our streets, see our frozen bodies, look through our possessions, and wonder about the lives we led.</p>
+   <p>Which is why I have written this account. You, I hope, are one of those explorers. You, I hope, found these sheets of copper and deciphered the words engraved on their surfaces. And whether or not your brain is impelled by the air that once impelled mine, through the act of reading my words, the patterns that form your thoughts become an imitation of the patterns that once formed mine. And in that way I live again, through you.</p>
+   <p>Your fellow explorers will have found and read the other books that we left behind, and through the collaborative action of your imaginations, my entire civilization lives again. As you walk through our silent districts, imagine them as they were; with the turret clocks striking the hours, the filling stations crowded with gossiping neighbors, criers reciting verse in the public squares and anatomists giving lectures in the classrooms. Visualize all of these the next time you look at the frozen world around you, and it will become, in your minds, animated and vital again.</p>
+   <p>I wish you well, explorer, but I wonder: Does the same fate that befell me await you? I can only imagine that it must, that the tendency toward equilibrium is not a trait peculiar to our universe but inherent in all universes. Perhaps that is just a limitation of my thinking, and your people have discovered a source of pressure that is truly eternal. But my speculations are fanciful enough already. I will assume that one day your thoughts too will cease, although I cannot fathom how far in the future that might be. Your lives will end just as ours did, just as everyone's must. No matter how long it takes, eventually equilibrium will be reached.</p>
+   <p>I hope you are not saddened by that awareness. I hope that your expedition was more than a search for other universes to use as reservoirs. I hope that you were motivated by a desire for knowledge, a yearning to see what can arise from a universe's exhalation. Because even if a universe's lifespan is calculable, the variety of life that is generated within it is not. The buildings we have erected, the art and music and verse we have composed, the very lives we've led: none of them could have been predicted, because none of them were inevitable. Our universe might have slid into equilibrium emitting nothing more than a quiet hiss. The fact that it spawned such plenitude is a miracle, one that is matched only by your universe giving rise to you.</p>
+   <p>Though I am long dead as you read this, explorer, I offer to you a valediction. Contemplate the marvel that is existence, and rejoice that you are able to do so. I feel I have the right to tell you this because, as I am inscribing these words, I am doing the same.</p>
+  </section>
+ </body>
+ <binary id="eclipse.jpg" content-type="image/jpeg">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
+2Q==</binary>
+</FictionBook>
